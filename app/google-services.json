@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "769302794782",
+    "firebase_url": "https://vehicleprice-9bdc5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vehicleprice-9bdc5",
+    "storage_bucket": "vehicleprice-9bdc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769302794782:android:f6f66b62116d1ff3c5d40f",
+        "android_client_info": {
+          "package_name": "com.cja.vehiclepricechecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769302794782-07b54bav5njoqc0a60e9qfhb2hq9pd90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6OfDDyO9Di-k4sR7ySsc0yfTHVu6fzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769302794782-07b54bav5njoqc0a60e9qfhb2hq9pd90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769302794782:android:a73e3206322e98a6c5d40f",
+        "android_client_info": {
+          "package_name": "com.cja.vehiclepricesanalizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769302794782-07b54bav5njoqc0a60e9qfhb2hq9pd90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6OfDDyO9Di-k4sR7ySsc0yfTHVu6fzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769302794782-07b54bav5njoqc0a60e9qfhb2hq9pd90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769302794782:android:d844adff3b450341c5d40f",
+        "android_client_info": {
+          "package_name": "com.example.realtimerecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769302794782-07b54bav5njoqc0a60e9qfhb2hq9pd90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6OfDDyO9Di-k4sR7ySsc0yfTHVu6fzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769302794782-07b54bav5njoqc0a60e9qfhb2hq9pd90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
